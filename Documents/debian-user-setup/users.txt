@@ -1,3 +1,0 @@
-jan,developers
-kasia,admins
-ola,users
